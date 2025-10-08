@@ -17,7 +17,7 @@ void main() {
   }
 
   void namaBerulang(String nama, int n) {
-    while (n <= 5) {
+    while (n <= 4) {
       print(nama);
       n++;
     }
